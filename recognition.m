@@ -1,5 +1,3 @@
-%Author Nuruzzaman Faruqui
-%You are free to use, modify or distribute this code
 loaded_Image=load_database();
 random_Index=round(400*rand(1,1));
 random_Image=loaded_Image(:,random_Index);
